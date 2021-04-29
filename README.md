@@ -2,9 +2,14 @@
 
 A tool that aggregates and structures logs of the cluster's components
 
-# Logstash Helm Chart
+## Usage
+
+[Helm](https://helm.sh) must be installed to use the charts.
+Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 
 - logstash · elastic/logstash (https://artifacthub.io/packages/helm/elastic/logstash)
+
+Once Helm is set up properly, add the repo as follows:
 
 ## Get Repo Info
 
